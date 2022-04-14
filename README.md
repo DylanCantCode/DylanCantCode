@@ -1,16 +1,25 @@
-### Hi there 👋
+# **Dylan Lea's CV**
 
-<!--
-**DylanCantCode/DylanCantCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education
+#### University of Oxford
+BA Computer Science and Philosophy | October 2018 - July 2022
 
-Here are some ideas to get you started:
+## Projects
+#### [Blockchain arena game](https://github.com/DylanCantCode/blockchain-arena-game)
+Created a simple multiplayer game in solidity. Compiled and deployed to the Rinkeby testnet using Hardhat. Verified contract code on Etherscan, which can be found at: 0x3B0210C9CD01605d9640a68db577D1e0B7a2386C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### MNIST dataset classification with Keras
+Implemented a simple convolutional neural network using Python and Keras to classify the MNIST dataset.
+
+#### [Backpropogation with Numpy](https://github.com/DylanCantCode/NeuralNetwork)
+Implemented a simple feed forward neural network using Numpy. Then implemented a backpropgation learning algorithm again using Numpy.
+
+#### [Twitter bot using GTP-3](https://github.com/DylanCantCode/140road)
+Created a twitter bot using the GTP-3 API. The bot will reposnd to followed accounts with a response that has been trained based on the followed account's previous tweets. [@140road](https://twitter.com/140Road)
+
+## Awards and Acknowledgements
+##### Lady Margaret Hall, Oxford
+Scholarship and Lion Prize in Philosophy for performance in first year exams.
+##### UK Mathematics Trust
+Bronze award (top 100) in British Maths Olympiad, 2017.
+
