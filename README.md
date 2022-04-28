@@ -14,8 +14,8 @@ Implemented a simple convolutional neural network using Python and Keras to clas
 #### [Backpropogation with Numpy](https://github.com/DylanCantCode/NeuralNetwork)
 Implemented a simple feed forward neural network using Numpy. Then implemented a backpropgation learning algorithm again using Numpy.
 
-#### [Twitter bot using GTP-3](https://github.com/DylanCantCode/140road)
-Created a twitter bot using the GTP-3 API. The bot will reposnd to followed accounts with a response that has been trained based on the followed account's previous tweets. [@140road](https://twitter.com/140Road)
+#### [Twitter bot using GPT-3](https://github.com/DylanCantCode/140road)
+Created a twitter bot using the GPT-3 API. The bot will reposnd to followed accounts with a response that has been trained based on the followed account's previous tweets. [@140road](https://twitter.com/140Road)
 
 ## Awards and Acknowledgements
 ##### Lady Margaret Hall, Oxford
