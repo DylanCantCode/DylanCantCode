@@ -22,4 +22,6 @@ Created a twitter bot using the GPT-3 API. The bot will reposnd to followed acco
 Scholarship and Lion Prize in Philosophy for performance in first year exams.
 ##### UK Mathematics Trust
 Bronze award (top 100) in British Maths Olympiad, 2017.
+##### ETHGlobal
+EthAmsterdam Hackathon Sponser Prize (Dune Analytics)
 
