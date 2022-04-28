@@ -5,6 +5,7 @@
 BA Computer Science and Philosophy | October 2018 - July 2022
 
 ## Projects
+#### Whaaaaaaaaaaaaaaaaaaaaaaaa.com
 #### [Blockchain arena game](https://github.com/DylanCantCode/blockchain-arena-game)
 Created a simple multiplayer game in solidity. Compiled and deployed to the Rinkeby testnet using Hardhat. Verified contract code on Etherscan, which can be found at: 0x3B0210C9CD01605d9640a68db577D1e0B7a2386C
 
